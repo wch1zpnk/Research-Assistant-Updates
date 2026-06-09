@@ -1,0 +1,4 @@
+Research Assistant 1.0
+
+- Adds the signed updater foundation and Check for Updates menu command.
+- Keeps local watchlists, notes, preferences, cache, and API keys on each Mac during app replacement.

@@ -8,7 +8,7 @@
             <sparkle:version>101</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b101.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b101.txt</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b101.dmg" length="2853575" type="application/octet-stream" sparkle:edSignature="Pq+przsc9rNb56WOGtU8XpCfh6S74+8uJ6IfKv4pJYUmp0j83UzVIumphrdKrviPYfwC9ftAsvF5+9y9DcDKCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant101-100.delta" sparkle:deltaFrom="100" length="163710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3odya0I2IqS7S0ZJP0k52tXvG0z41fDvj/MV0YacQeqcyPrFhopRYSaIX8O7sT3HhYzpO2RfPhic1HycEaLCCg=="/>
@@ -20,7 +20,7 @@
             <sparkle:version>100</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b100.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b100.txt</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b100.dmg" length="2850986" type="application/octet-stream" sparkle:edSignature="NCKusYLRMPyRPWgdb1Ozzfxwm60iwuSf33E9OZPtbUsDBooFrIgZ+fJQXG6/haesqKSFCq1nSZDE+lB3+26yBA=="/>
         </item>
     </channel>
