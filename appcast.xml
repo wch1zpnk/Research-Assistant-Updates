@@ -4,6 +4,19 @@
         <title>Research Assistant</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 08 Jun 2026 22:44:50 -0400</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b102.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.0-b102.dmg" length="3049107" type="application/octet-stream" sparkle:edSignature="rbEpX0Y83pGCXP6OkPwb/m6FRBf2JmjnzTDU8L5BIJvtkDjo+XjhqyRy7zZkZDa3DiZ+0RJm0hSe8kCNtkjXAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant102-101.delta" sparkle:deltaFrom="101" length="477482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/NlZ+ykZVw6cJfdOK6PP2mRXsg+D+mXpJi7OnGSuRZmKNE073Maw4mu9kJnlNiabmBQ93Ty0Heg6zyFBSCXPDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant102-100.delta" sparkle:deltaFrom="100" length="485354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="32/iBNdcA4EMw20iTG9T/dypgzA5Gepg3uoZERUyqcIXTWjIf5RkXuu+lvOJwv2Z4HWbATvG0GcBLFr3beySDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 08 Jun 2026 19:12:50 -0400</pubDate>
             <sparkle:version>101</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>

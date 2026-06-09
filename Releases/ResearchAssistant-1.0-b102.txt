@@ -1,0 +1,7 @@
+Research Assistant 1.0 build 102
+
+- Adds the thesis dashboard, category confidence, and what-changed-since-last-review panels.
+- Adds editable valuation assumptions for target price, P/E scenarios, DCF growth, discount rate, terminal growth, and rationale.
+- Adds Research Library review filters, target context, and review flags for thesis, follow-up, stale snapshots, low confidence, and open alerts.
+- Adds notification-history actions to append alerts to watch items or create follow-up dates.
+- Expands PDF exports with category confidence, review deltas, valuation assumptions, and traceability notes.
