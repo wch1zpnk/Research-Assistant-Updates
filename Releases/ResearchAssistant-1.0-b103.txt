@@ -1,0 +1,6 @@
+Research Assistant 1.0 build 103
+
+- Adds a Settings control for showing or hiding mouseover explanations.
+- Keeps hover guidance enabled by default while allowing quieter day-to-day testing.
+- Improves the Settings layout so setup, API usage, alert, interface, and scope details have more room.
+- Preserves the existing app identity and local data locations so Sparkle updates keep API keys, notes, watchlists, alerts, snapshots, and preferences.
