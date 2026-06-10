@@ -1,0 +1,5 @@
+Research Assistant 1.1 build 104
+
+- Promotes the hover-help Settings toggle into the mainline release so users can show or hide mouseover explanations.
+- Keeps the Settings window wider and easier to scan for setup, API usage, alert, interface, and scope controls.
+- Preserves the app's local-data behavior and Sparkle update path while leaving the installed copy in /Applications untouched for update testing.
