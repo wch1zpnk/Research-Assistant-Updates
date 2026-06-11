@@ -1,0 +1,5 @@
+Research Assistant 1.2 build 106 fixes a sidebar rendering regression from build 105.
+
+- Restores the visible Workspace, Recent Symbols, Watchlist, and Alerts rows in the app sidebar.
+- Keeps the focused dashboard tabs, guided research workflow, hover-help expansion, and 1.2 research-coach updates from build 105.
+- Preserves existing local watchlists, notes, settings, cache data, and Keychain-stored API keys during Sparkle update installation.
