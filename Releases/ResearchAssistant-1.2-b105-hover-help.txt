@@ -1,0 +1,8 @@
+Research Assistant 1.2 build 105
+
+- Expands mouseover explanations across the application, including menu commands, Settings labels, Help pages, alert-rule rows, notification history, dashboard command-center controls, and guided workspace status panels.
+- Adds a source-level regression test that keeps SwiftUI control surfaces routed through the conditional researchHelp hover system instead of raw .help calls.
+- Adds the Research Command Center with readiness scoring, completion categories, and a next best action for the loaded company.
+- Improves Watchlist, Research Library, and Company Compare with clear status strips that explain current state and what to do next.
+- Fixes sidebar/window sizing so list rows stay inside the application window on smaller displays.
+- Preserves the app's bundle identifier and local-data behavior so Sparkle updates keep API keys, notes, watchlists, alerts, snapshots, cache, and preferences.
