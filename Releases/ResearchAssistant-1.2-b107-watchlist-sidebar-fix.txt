@@ -1,0 +1,6 @@
+Research Assistant 1.2 build 107 fixes the Watchlist-specific sidebar disappearance.
+
+- Keeps the sidebar visible after selecting Watchlist from the sidebar.
+- Starts the Watchlist workspace at its management controls instead of jumping into Notification History.
+- Preserves the build 106 sidebar repair, focused dashboard tabs, guided research workflow, and Research Coach updates.
+- Keeps existing local watchlists, notes, settings, cache data, and Keychain-stored API keys during Sparkle update installation.
