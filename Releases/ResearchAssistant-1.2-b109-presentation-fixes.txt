@@ -1,0 +1,7 @@
+Research Assistant 1.2.109
+
+- Keeps the app in dark mode regardless of the system appearance setting.
+- Shows the app version and build as a single dotted version, such as 1.2.109, in About and update status messaging.
+- Centers the About sheet over the active app window.
+- Centers the Check for Updates result sheet over the main app window and keeps the newest-version message in dotted version format.
+- Keeps main window tab titles on the active ticker when switching between Dashboard, Watchlist, Compare, Library, and Formulas.
