@@ -1,0 +1,9 @@
+Research Assistant 1.2 build 108 fixes main-window tab sessions and five-year financial table polish.
+
+- Keeps separate macOS tabs from mirroring one another by giving each main tab its own live research store.
+- Restores saved main-window tabs after relaunch using the app-managed tab-session list instead of unsupported SwiftUI private-window selectors.
+- Prevents corrupted duplicate saved tab entries, such as AAPL, MSFT, AAPL, from reopening duplicate tabs.
+- Keeps the main tab bar visible by default at launch.
+- Removes source-documentation links from five-year financial audit popovers.
+- Displays fiscal years without comma formatting in the five-year financial table.
+- Preserves local API keys, watchlists, recents, notes, settings, snapshots, cache data, and alert history during the Sparkle update.
