@@ -1,0 +1,10 @@
+Research Assistant 1.3 build 112
+
+This update fixes two macOS window and session-restoration issues found during tabbed Dashboard Mode testing.
+
+- Clicking the red close button on the main Research Assistant window now quits the application instead of only closing the window and leaving the app running in the menu bar.
+- Restored tabs now keep their own Dashboard Mode. A tab left in Numbers mode and another tab left in Research mode will reopen in those same modes after quitting and relaunching.
+- Main-window session restoration now stores Dashboard Mode alongside ticker, selected workspace, comparison input, chart range, and selected dashboard tab.
+- Older saved tab-session records without a Dashboard Mode value remain compatible and fall back safely.
+
+The app identity remains `com.briscoe.researchassistant`, so Sparkle updates preserve existing local API keys, watchlists, notes, alert rules, snapshots, cache, and preferences.
