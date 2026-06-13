@@ -1,0 +1,7 @@
+Research Assistant 1.3 build 110
+
+- Adds a 10/10 Checkpoint to the dashboard that scores each loaded company against beginner clarity, analyst completeness, trust and auditability, workflow continuity, report quality, and failure handling.
+- Shows actionable blockers when a research record is not ready, with jump targets back into the relevant dashboard sections.
+- Adds the same 10/10 checkpoint to exported PDF reports so saved research explains why it is complete or what still needs work.
+- Keeps the existing Research Coach, Guided Research Session, Generated Research Memo, valuation guardrails, local notes, alerts, snapshots, and Sparkle update path intact.
+- Preserves local API keys, notes, watchlists, saved peer sets, settings, cache data, snapshots, alerts, and preferences during the Sparkle update.
