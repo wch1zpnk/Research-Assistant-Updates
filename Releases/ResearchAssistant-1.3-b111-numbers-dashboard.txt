@@ -1,0 +1,12 @@
+Research Assistant 1.3.111
+
+This update adds a numbers-first dashboard mode for users who want current ticker values and calculations before research workflow guidance.
+
+- Adds a persistent Dashboard Mode setting with Numbers and Research modes.
+- Makes Numbers mode the default dashboard experience.
+- Keeps Numbers mode to Overview and Events & Sources tabs.
+- Moves current quote values, valuation ratios, latest fiscal-year values, forward estimates, numeric metrics, technical chart, five-year financials, and analyst estimates into the Numbers overview.
+- Keeps Research mode available with the Research Command Center, 10/10 Checkpoint, coach, guided session, memo, thesis notes, confidence panels, and full workflow tabs.
+- Updates PDF export so reports begin with a full numeric workbook and can span multiple pages.
+
+Research Assistant remains an educational research utility. It does not provide brokerage integration, trade execution, portfolio custody, or personalized investment advice.
