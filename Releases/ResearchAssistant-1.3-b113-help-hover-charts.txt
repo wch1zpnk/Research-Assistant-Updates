@@ -1,0 +1,7 @@
+Research Assistant 1.3 build 113
+
+- Updates Help for the current Numbers-first workflow, including Dashboard Mode, the Numbers tab, the Charts tab, workbook-first PDF exports, and mouseover explanations.
+- Adds source-backed Charts coverage in Numbers mode for quote ranges, market value, volume, valuation multiples, latest fiscal-year values, estimates, valuation scenarios, DCF values, and five-year trends.
+- Expands mouseover descriptions on the visible Numbers dashboard and chart-card items so labels, values, gaps, chart annotations, and startup guidance explain themselves on hover.
+- Keeps Research mode focused on the guided research workflow: Overview, Financials, Valuation, Thesis Notes, and Events & Sources.
+- Keeps local data, API keys, notes, watchlists, alerts, snapshots, and preferences on the user's Mac; the update replaces only the signed app bundle.
