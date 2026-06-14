@@ -1,0 +1,9 @@
+Research Assistant 1.4 build 117
+
+This release polishes Numbers Only Mode so the numeric dashboard reads faster and the segmented tab controls render cleanly.
+
+- Adds Numbers Pulse, a compact first-read panel for price, 52-week position, market cap, valuation, financial context, base-case context, and missing numeric inputs.
+- Keeps the numeric workbook first on screen and in PDF exports.
+- Improves Numbers Charts empty/loading presentation and chart group transitions.
+- Fixes the Numbers/Charts/Events tab separators so no line runs through the tab labels in Numbers Only Mode.
+- Updates Help and hover descriptions for the Numbers Pulse and chart-group workflow.
