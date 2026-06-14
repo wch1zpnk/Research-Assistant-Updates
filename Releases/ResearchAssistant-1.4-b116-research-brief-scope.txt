@@ -1,0 +1,8 @@
+Research Assistant 1.4 build 116
+
+This release keeps Numbers Only Mode focused on the numeric workbook and moves interpretive guidance fully into Full Research Suite Mode.
+
+- Shows Decision Brief only in Full Research Suite Mode.
+- Removes the Decision Brief from Numbers Only Mode so the first read stays numbers-first.
+- Keeps PDF exports workbook-first, with Decision Brief in the research appendix.
+- Updates Help, README, ROADMAP, and handoff guidance for the corrected mode split.
