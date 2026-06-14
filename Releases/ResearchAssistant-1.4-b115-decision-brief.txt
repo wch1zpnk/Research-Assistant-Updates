@@ -1,0 +1,9 @@
+Research Assistant 1.4 build 115
+
+This release makes the app easier to read without removing the deeper research tools.
+
+- Adds a Decision Brief at the top of the dashboard with the current read, key numbers, numeric gaps, and one next action.
+- Keeps Numbers Only Mode focused by collapsing detailed technical charts, five-year financials, and analyst estimate tables until needed.
+- Keeps Full Research Suite Mode focused by starting with Research Coach and Guided Research Session, with the memo/checklist/thesis detail available on demand.
+- Updates PDF exports so the report starts with the same Decision Brief before the numeric workbook and research appendix.
+- Refreshes Help, README, and roadmap guidance for the new answer-first dashboard flow.
