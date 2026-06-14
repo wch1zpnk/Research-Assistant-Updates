@@ -1,0 +1,11 @@
+Research Assistant 1.3 build 114
+
+This update fixes several dashboard and tab reliability issues found during Numbers-first testing.
+
+- Hides Library from the left sidebar while Dashboard Mode is set to Numbers Only Mode.
+- Renames the Dashboard Mode controls to Numbers Only Mode and Full Research Suite Mode.
+- Removes duplicate Watchlist notification history rows, including repeated filing and price-move alerts from older saved history.
+- Removes duplicate Research Timeline, SEC Filings, Press Releases, and Alert Queue rows in Events & Sources.
+- Fixes a crash when closing one company tab while multiple company tabs are open.
+
+This release preserves the existing local API key, watchlist, notes, alert rules, research snapshots, cache, and preferences.
