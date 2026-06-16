@@ -1,0 +1,9 @@
+Research Assistant 1.5 build 120
+
+This update moves the former detailed Numbers dropdown content into the Charts tab.
+
+- Pins the Technical Chart to the top of the Charts tab.
+- Places the Five-Year Financial Picture directly under the Technical Chart.
+- Shows Wall Street Estimates before the existing source-backed Numbers Bar Charts.
+- Removes the small Detailed Tables and Technical Chart dropdown from the Numbers overview.
+- Updates Help, hover text, roadmap, handoff notes, and regression coverage for the new Charts order.
