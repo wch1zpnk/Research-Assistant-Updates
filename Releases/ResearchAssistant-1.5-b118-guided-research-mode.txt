@@ -1,0 +1,9 @@
+Research Assistant 1.5 build 118
+
+This release reworks the research workflow so the main dashboard stays focused and Guided Research Mode reads like a step-by-step worksheet.
+
+- Removes the Dashboard Mode picker from the main dashboard; Dashboard Mode is now changed only in Settings.
+- Renames Full Research Suite Mode to Guided Research Mode.
+- Replaces the old research dashboard stack with six beginner-friendly steps: Understand the Business, Check the Numbers, Trust the Evidence, Spot Strengths and Risks, Think About Valuation, and Write the Conclusion.
+- Keeps Numbers Only Mode workbook-first with Numbers, Charts, and Events & Sources.
+- Adds broader hover-help and pointing-hand cursor coverage for clickable dashboard, Help, source, and worksheet controls.
