@@ -1,0 +1,6 @@
+Research Assistant 1.5 build 121
+
+- Defaults new API usage settings to Live mode so dashboard loads and watchlist monitoring use the most complete Financial Modeling Prep coverage available under the saved key.
+- Automatically enables Watchlist monitoring when the Watchlist workspace has saved symbols, and disables the Monitor control when the watchlist is empty.
+- Makes sidebar alert rows selectable so choosing an alert opens Watchlist and highlights that alert in a new Active Alerts review panel.
+- Adds focused regression coverage for the Live usage default, Watchlist monitor start/stop behavior, and alert-to-Watchlist routing.
