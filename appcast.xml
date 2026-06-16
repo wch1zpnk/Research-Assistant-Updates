@@ -4,6 +4,22 @@
         <title>Research Assistant</title>
         <item>
             <title>1.5</title>
+            <pubDate>Tue, 16 Jun 2026 16:46:56 -0400</pubDate>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.5-b119-financial-values-copy.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.5-b119-financial-values-copy.dmg" length="3233764" type="application/octet-stream" sparkle:edSignature="92Dq5sM+K56XhZ+aaeTCiZIxAGYidMOP+V/fw5+4FkRrNzikBaD4XN20SH44JiIuWBuwX+lH00NctesZ1dpqDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant119-118.delta" sparkle:deltaFrom="118" length="145082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sQ+3Em2y61obtADeMR+ysw8LyZcSZmzL1AP3Vr3q5QAMvoTuZ47tk5HNM8JikPY3VicVTBVaZWlxMXuhv4iICw=="/>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant119-117.delta" sparkle:deltaFrom="117" length="511110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wX77zclgmDUDCSqJRjOFKv65Ik/NIE7HF/YY43w8U6uicuCFU1e7dy2NLq09d4+J5xpcwHcJ26s3K5ni3vCrCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant119-116.delta" sparkle:deltaFrom="116" length="595186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w9Yqd2ugkTrbGCYFyZc4xYTe+aNuvUFKulC4X8/emI8alDfw/apaj5xQOQZq0ieZI5i5cumv55N7MpN7P1P8Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant119-115.delta" sparkle:deltaFrom="115" length="601646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nmKjor7P94+8UCAbi4miKg1WPyTJlj2ogKjj5v6yUsbSveu5H/2WPPQDA5hGc5NenYch5ZmlEvwr+Pk5g9omCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant119-114.delta" sparkle:deltaFrom="114" length="602374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dm9l0ieHo1tRj7gyxzbBkRPk0PePTr5JEzcf/qGmnRLpPT1yXDSphXjdXL1wPibUUeLsWF/9gXeyK6ODNRw4CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5</title>
             <pubDate>Tue, 16 Jun 2026 15:37:17 -0400</pubDate>
             <sparkle:version>118</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant117-114.delta" sparkle:deltaFrom="114" length="464762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="InNAofvvjiACnKh2po2eq+PHDEbpsrkVvfIznxGKswOlDvBgkBe6XDPq5JVL+CJAoQLCjl1MggnawNabKKxECw=="/>
                 <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant117-113.delta" sparkle:deltaFrom="113" length="533382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ubf0219srtuSV0iPE+dFJ8xJ4KIkKhiekcczfa3cWhQVaWwExLHK/CZVJUr86PW1yAiTIf4DY6B+RJGchUvVCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant117-112.delta" sparkle:deltaFrom="112" length="602502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZbHVaIPwx9pco+SEPTkhtVOtykb8RAI3oD4HIOnZ1SucBafxwhoJpenGErW+rS/dbFQ2IqnDmOg55C6JNZUvBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Sun, 14 Jun 2026 03:32:34 -0400</pubDate>
-            <sparkle:version>116</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.4-b116-research-brief-scope.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/ResearchAssistant-1.4-b116-research-brief-scope.dmg" length="3149100" type="application/octet-stream" sparkle:edSignature="5FMT3QwE9UKHZz6jrTPlG8XDHo6VRfIuDOVjm8RHqHsTL5u8cjBpCRxwXPyQ0tVOM0iHSwCUTVrsYDdh5qmOBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant116-115.delta" sparkle:deltaFrom="115" length="262634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nCkS7Shp+3UbgOMHsvz5g6RQ/IxV46xXIVrghpFBZO5IjjaHny/TOoakBOkWhEH307NfUHRy4ABRbr0fA9UeBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant116-114.delta" sparkle:deltaFrom="114" length="344454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G+L2KzzE09MYql4LAletCBQTgxtrZtG5c5bNR/O79BtmEq+MZAelv5RH/AU6PGnp2aanrv0bAD529WRWT+KNCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant116-113.delta" sparkle:deltaFrom="113" length="430574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1suhx1rs9lEVhFaj8xJHrZQbwZ8x8+JBUkJWFNxvlwJosIIsA8xasaZA2fwCSkA78dVc5qcM/ngB0BqgTATGAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant116-112.delta" sparkle:deltaFrom="112" length="532098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3w3CTuwP46SDCd8R8f/bxFd5RfIkObrWManYK3hWt+Mo2qWSvfWAnYWn/PGrjkixxtBp3+YtopsVWfptnsc7CQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/wch1zpnk/Research-Assistant-Updates/main/Releases/Research%20Assistant116-111.delta" sparkle:deltaFrom="111" length="553914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2ThGI92PGv9Q289VSvkXUp24YaM9VUP8ZbFZo80FhZuqZjLo7WOGnyKEtUo5E4uRynCwLQFYIc6BSj+vZ3tEBg=="/>
             </sparkle:deltas>
         </item>
     </channel>

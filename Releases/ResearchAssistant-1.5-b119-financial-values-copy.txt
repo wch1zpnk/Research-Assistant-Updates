@@ -1,0 +1,8 @@
+Research Assistant 1.5 build 119
+
+This update polishes the Numbers dashboard wording after build 118.
+
+- Renames the confusing Current Ticker Metric Values label to Current Ticker Financial Values.
+- Updates the matching Numbers dashboard hover help and Help text so the wording is consistent.
+- Keeps the underlying current-ticker calculation model unchanged.
+- Keeps Guided Research Mode, Numbers Only Mode, the Settings-only Dashboard Mode picker, and the build 118 Guided Research worksheet behavior intact.
