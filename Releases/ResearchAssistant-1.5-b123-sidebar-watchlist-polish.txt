@@ -1,0 +1,6 @@
+Research Assistant 1.5 build 123
+
+- Adds right-click Open in New Tab actions for Recent Symbols and Watchlist sidebar items.
+- Changes the focused Active Alerts highlight in Watchlist from blue to red.
+- Reworks the Watchlist symbol rows so the delete button stays visible without horizontal table scrolling.
+- Includes the unreleased Watchlist alert-management fixes from after build 122: shared alert rules across tabs/windows, Resolve keeping rules enabled, custom rules re-triggering after resolution, duplicate suppression for unresolved rule alerts, and Notification History archive/clear controls.
