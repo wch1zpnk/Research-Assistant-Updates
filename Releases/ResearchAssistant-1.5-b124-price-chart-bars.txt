@@ -1,0 +1,5 @@
+Research Assistant 1.5 build 124
+
+- Corrects the LTM stock price chart to use vertical bars instead of horizontal bars, line marks, or point markers.
+- Shows the bar color for each series: light blue for LTM DCP, darker blue for 20-day moving average, orange for 50-day moving average, and purple for 200-day moving average.
+- Keeps the chart fixed to the latest twelve months and uses daily closing prices for the price series and moving-average calculations.
