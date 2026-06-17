@@ -1,0 +1,9 @@
+Research Assistant 1.5 build 122
+
+- Adds a red active-alert count to the toolbar Alerts button and opens Watchlist Active Alerts from that button.
+- Adds in-place editing for saved alert rules so thresholds and symbols can be updated without creating duplicate rules.
+- Keeps unresolved alerts active until Resolve is selected in Notification History, restores unresolved alerts after relaunch, and sends hourly macOS reminder notifications while unresolved alerts remain open.
+- Resolving a custom-rule alert now disables that specific alert rule.
+- Keeps notification testing in Settings and updates Help/hover guidance for the alert workflow.
+
+This release preserves the existing local API key, watchlist, notes, alert rules, notification history, research snapshots, cache, and preferences.
