@@ -3,6 +3,22 @@
     <channel>
         <title>Research Assistant</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Wed, 17 Jun 2026 23:47:41 -0400</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.6-b125-updater-feed-privacy.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.6-b125-updater-feed-privacy.dmg" length="3308612" type="application/octet-stream" sparkle:edSignature="0f3CZl+ojvQ5rluySaLrpea19CD4+kJr3EZNJdZiCT5dk4EGh02n9YeROIajejWmVN8RNcmTY11OoojiSSlbDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant125-124.delta" sparkle:deltaFrom="124" length="241982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZZpb8tYMA8ccyQ63E1o6YYYRcUwg50R/iZFDAmJzGwHVvRmnSppDXVKVElho5tDPy2zIt4wtyuy4lx1RfQeJAg=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant125-123.delta" sparkle:deltaFrom="123" length="323650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NOTzLOU3mzyJ70qbF3bj7064uj3uZghGb0SopQVLOb6JeB4O5fcYia75Hv/6eesTlkLAMtU7RWp2s8B313tWBQ=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant125-122.delta" sparkle:deltaFrom="122" length="467894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NiSLiB+RFpXOpxchSPvfebHfgtPg8zv6kn2qlEG+xNVWFOUMzkJO7iXmeebxJwAgyo7grsCXopfFLj9VsoDeAw=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant125-121.delta" sparkle:deltaFrom="121" length="533314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ssx8XgXnawXWLB+7ablpQJKqvz6zuxOcJyPjTLMZcIdGZTpPch8SJ7VFKxgFjdD7HMt+ydvUUVk2kYyy8B4aDg=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant125-120.delta" sparkle:deltaFrom="120" length="552214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="baH5Byu3lpRvEaASfk2x65CYHxDwXJBl5EvKzPy4Undc2eebM54JK3BKj4UDGVgldW2CRRpgfRC7G7D/hCg+Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Wed, 17 Jun 2026 12:26:49 -0400</pubDate>
             <sparkle:version>124</sparkle:version>
@@ -26,15 +42,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.5-b123-sidebar-watchlist-polish.txt</sparkle:releaseNotesLink>
             <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.5-b123-sidebar-watchlist-polish.dmg" length="3319071" type="application/octet-stream" sparkle:edSignature="yBvkvj8WHL9oYsWPdS3umR0Ne25O1riRaOo7klq3qci+fYTX52ar1fy5kEty6+He2wiA57sLYsXK9vQ990+5Bw=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Tue, 16 Jun 2026 21:31:07 -0400</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.5-b122-watchlist-alert-management.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.5-b122-watchlist-alert-management.dmg" length="3780042" type="application/octet-stream" sparkle:edSignature="E+J8dMg9LGSbCaCyzZo8jJISIHzm4vN5bMp+PByQlvNUXEQp+lLDnDBYEZwlePBmaXUQHO1iwZzYt5kDo83uCA=="/>
         </item>
     </channel>
 </rss>

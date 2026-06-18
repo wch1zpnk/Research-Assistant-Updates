@@ -1,0 +1,5 @@
+Research Assistant 1.6 build 125
+
+- Moves the Sparkle appcast location out of the app's Info.plist and into the updater runtime configuration.
+- Keeps existing installed copies able to update from the older raw appcast URL while new builds use the GitHub Pages appcast URL.
+- Preserves the same app identity and public Sparkle signing key so local API keys, watchlists, notes, alert rules, snapshots, cache, and preferences remain in place after updating.
