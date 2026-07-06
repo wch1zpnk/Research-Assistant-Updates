@@ -1,0 +1,6 @@
+Research Assistant 1.7.126
+
+- Adds right-click Add to Watchlist from Recent Symbols.
+- Adds watchlist sorting by date added, name, or symbol while preserving the stored date-added order.
+- Updates the LTM Stock Price Chart to show thin daily high-low price bars, close ticks, moving-average lines, and a compact volume strip.
+- Keeps Sparkle updates on the public GitHub Pages appcast with the same app identity and signing key.

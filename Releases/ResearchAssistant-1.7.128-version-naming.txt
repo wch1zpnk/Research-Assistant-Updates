@@ -1,0 +1,19 @@
+Research Assistant 1.7.128
+
+- Sparkle now advertises the release using the corrected dotted visible version convention: 1.7.128.
+- The About panel and Software Update presentation use the build number as the final dotted component, so users can see which build they are running.
+- New release artifacts use the dotted version in their filenames instead of the older 1.7.1-b128 style.
+- The Software Update release notes include recent version history directly in the update dialog.
+
+Build 127
+
+- Recent Symbols and Watchlist in the left sidebar can be collapsed independently.
+- Workspace remains fixed and is not collapsible.
+- Watchlist sidebar controls can import ticker symbols from a plain text file with one symbol per line.
+- Watchlist sidebar controls can export the current watchlist to a plain text file in the same one-symbol-per-line format.
+
+Build 126
+
+- Recent Symbols sidebar rows include a right-click Add to Watchlist action.
+- Watchlist sorting is available in the sidebar and workspace.
+- The LTM Stock Price Chart uses daily high-low price bars, close ticks, moving-average lines, and a compact volume strip.
