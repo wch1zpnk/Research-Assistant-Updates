@@ -1,0 +1,26 @@
+Research Assistant 1.7.129
+
+- Settings now uses Setup, API, Alerts, Interface, and Scope tabs instead of one long combined page.
+- The Settings window is smaller and fixed to a compact size that fits the API tab without the previous large blank lower area.
+- The Interface tab now contains dashboard mode, appearance, and mouseover-help controls.
+- Users can choose Dark or Light appearance, with Dark still selected by default for new installs.
+- The API tab includes an Open FMP Signup button for new users who need to create a Financial Modeling Prep account and get an API key.
+- Recent Symbols, Watchlist, and Alerts in the left sidebar can each be collapsed independently.
+- Help now covers Watchlist sorting, Watchlist import/export, the new Settings tabs, appearance selection, and the API key signup link.
+
+Build 128
+
+- Sparkle advertises releases using the corrected dotted visible version convention.
+- The About panel and Software Update presentation use the build number as the final dotted component.
+- Release artifacts use dotted version filenames instead of the older hyphenated build style.
+
+Build 127
+
+- Recent Symbols and Watchlist in the left sidebar can be collapsed independently.
+- Watchlist sidebar controls can import and export ticker symbols with one symbol per line.
+
+Build 126
+
+- Recent Symbols sidebar rows include a right-click Add to Watchlist action.
+- Watchlist sorting is available in the sidebar and workspace.
+- The LTM Stock Price Chart uses daily high-low price bars, close ticks, moving-average lines, and a compact volume strip.
