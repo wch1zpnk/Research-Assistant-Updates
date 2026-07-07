@@ -3,6 +3,22 @@
     <channel>
         <title>Research Assistant</title>
         <item>
+            <title>1.7.130</title>
+            <pubDate>Tue, 07 Jul 2026 07:13:59 -0400</pubDate>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>1.7.130</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.7.130-chart-light-mode-polish.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.7.130-chart-light-mode-polish.dmg" length="3932154" type="application/octet-stream" sparkle:edSignature="O5SKwfl6wSJ1r9UnjIK2wRH4dvZBX0HvlQPaplLG6OLL0m8pnoSPONHhIRphABLFpy3XGv822fcUfBM7QyFjAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant130-129.delta" sparkle:deltaFrom="129" length="457314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fYW0NxiyCI/PB6Wr48TT2O3ZmX1RCoZ185zkaVtfwfgXwAQdm875yF+gYDy5bBRwXKuBVVVbWagxECFQmPfqAA=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant130-128.delta" sparkle:deltaFrom="128" length="553082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="drLwtGs0IsGc9ypPltxl5rvOajw6VgyMlUzzpZTPl6YBcKWBuYBQEgoeB/XssWJmBCflEzsxRLj6WQjZ2T0ICA=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant130-127.delta" sparkle:deltaFrom="127" length="557438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/S/yvb/E4Qzqxvb6FOQpYOd113dUsjUBEaE9lfpqqF8xB8rNvej+j+elf4MKtxp1DctwPq0wXrJ1Om2IYPs/BQ=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant130-126.delta" sparkle:deltaFrom="126" length="594258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6P+UzsJvnKCIedkbz6LOIdDJrBFyOBvQt9RCTnt4+5JhdrjKhOi0g3GSyHB7gp/XWkQMyZOJOZW3sf7bi+cvAA=="/>
+                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant130-125.delta" sparkle:deltaFrom="125" length="659806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CDkd043hUKZhc4ijvaWyJqYZvFAcAgr1k/YeQDv1iQ1iP3lL4ujkr60WRpYCNl9pxHpCx5GEBlc4WtRQmeazBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.129</title>
             <pubDate>Mon, 06 Jul 2026 15:19:57 -0400</pubDate>
             <sparkle:version>129</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant128-125.delta" sparkle:deltaFrom="125" length="453686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cOAXYmhENEkNwlTPTD58VfYjJPMJFPQfhA729F3KAlenPirJLEh+cRo0M6xlD5oyMe8AKMoNxx+XDvKJsjvHDg=="/>
                 <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant128-124.delta" sparkle:deltaFrom="124" length="463278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="URNguvN/bizBjn7vsKnTFAzfS4eMnbsDvjAW8oO3ib5He3UJRWtytGPQ+cUP1CnONxsFmpkRWYY0dCogymbHDg=="/>
                 <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant128-123.delta" sparkle:deltaFrom="123" length="472054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9MLlI9yfo6446z2tqxGPxbUHa0YgYNDf+NppFJb98M0mi9KZo7YcQH6Vq/gwq3KeRrySNFnDS4XePsqQCyvjCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.7.127</title>
-            <pubDate>Mon, 06 Jul 2026 12:55:51 -0400</pubDate>
-            <sparkle:version>127</sparkle:version>
-            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.7.127-sidebar-import-export.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/ResearchAssistant-1.7.127-sidebar-import-export.dmg" length="3897608" type="application/octet-stream" sparkle:edSignature="2AnRNt/+bVSLEzi+6T/0l2zZ/eBS3DNiV7YQPP0smqAZZqh6AshkxfZ0nqGH8fkFmpMsXyv5gzNpsbVmLkToBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant127-126.delta" sparkle:deltaFrom="126" length="355086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lVENLuzGSs563loLy2sIZJR4qA3WDgJKypvAjH/2akZ0LpzLzmdcGDLTFOTyslxXqFdPfjdD+HQ8899W5Q/VBA=="/>
-                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant127-125.delta" sparkle:deltaFrom="125" length="451234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aiLD9PRoI6jvNP2D1mlvRqP9UEj+YZP6kRdkWEVELlox1ola506Eb5wy1xEJKjLlAT1hWU/4VyEIx0GaVbmPDg=="/>
-                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant127-124.delta" sparkle:deltaFrom="124" length="459574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t41qBY+kFdFotKxVzlrITbgnRWE2kadXU24UixmSC3VBa1x2XNZrzGqMpoZZNMHUV9f2aC+EGTPDxEurqQT+Bw=="/>
-                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant127-123.delta" sparkle:deltaFrom="123" length="465630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UxEcD8ijM38XWmAAusDgWq13HORDeIOUHekgOOWiQrJZeUzU8eRUtsSAbqX/7KnGG0r9BqU2WSTMuhcgm3whBg=="/>
-                <enclosure url="https://wch1zpnk.github.io/Research-Assistant-Updates/Releases/Research%20Assistant127-122.delta" sparkle:deltaFrom="122" length="557586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N50sVymPtmxCiO7fsUl8hHJkfmkSoh2iebrB4Bs1DMhLOtCbhZyzLLAFC39AjuOo1OLOM7y65ImWmNAB1y9/BQ=="/>
             </sparkle:deltas>
         </item>
     </channel>

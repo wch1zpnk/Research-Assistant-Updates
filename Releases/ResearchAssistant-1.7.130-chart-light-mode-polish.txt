@@ -1,0 +1,32 @@
+Research Assistant 1.7.130
+
+- The LTM Stock Price Chart now calculates 20-day, 50-day, and 200-day moving averages from the full loaded price history before clipping them to the visible twelve-month chart. This keeps the 200-day and 50-day lines correctly ordered left to right and prevents the 200-day line from starting late like a short-window average.
+- Dashboard and research cards now use native macOS control backgrounds and separators in Light appearance, while Dark appearance keeps the existing material look.
+- The chart, financial table, estimates, Numbers bar charts, research cards, Help, and source panels share the same adaptive light-mode card treatment.
+
+Build 129
+
+- Settings now uses Setup, API, Alerts, Interface, and Scope tabs instead of one long combined page.
+- The Settings window is smaller and fixed to a compact size that fits the API tab without the previous large blank lower area.
+- The Interface tab now contains dashboard mode, appearance, and mouseover-help controls.
+- Users can choose Dark or Light appearance, with Dark still selected by default for new installs.
+- The API tab includes an Open FMP Signup button for new users who need to create a Financial Modeling Prep account and get an API key.
+- Recent Symbols, Watchlist, and Alerts in the left sidebar can each be collapsed independently.
+- Help now covers Watchlist sorting, Watchlist import/export, the new Settings tabs, appearance selection, and the API key signup link.
+
+Build 128
+
+- Sparkle advertises releases using the corrected dotted visible version convention.
+- The About panel and Software Update presentation use the build number as the final dotted component.
+- Release artifacts use dotted version filenames instead of the older hyphenated build style.
+
+Build 127
+
+- Recent Symbols and Watchlist in the left sidebar can be collapsed independently.
+- Watchlist sidebar controls can import and export ticker symbols with one symbol per line.
+
+Build 126
+
+- Recent Symbols sidebar rows include a right-click Add to Watchlist action.
+- Watchlist sorting is available in the sidebar and workspace.
+- The LTM Stock Price Chart uses daily high-low price bars, close ticks, moving-average lines, and a compact volume strip.
