@@ -1,0 +1,40 @@
+Research Assistant 1.7.131
+
+- The Stock Price Chart now offers LTM, YTD, 2-year, 3-year, 5-year, and 10-year ranges using real loaded daily history.
+- A standard 14-day Relative Strength Index panel adds a teal momentum line, latest value, neutral shading, and traditional 30 oversold and 70 overbought guides.
+- Long-range charts render substantially faster while calculations and range summaries continue to use the full loaded history.
+- Switching companies from Recent Symbols or Watchlist now shows available cached research immediately while fresh data loads, and a slower older request can no longer replace the newest selection.
+- Independent market-data requests now load in parallel while preserving the existing request limiter and cache behavior.
+- The interactive Numbers Only Mode tutorial includes 23 lessons, practice activities, progress tracking, and direct links into the relevant app workspaces.
+- A brand-new tutorial now begins with Getting Started. Continue appears only after a valid saved lesson position or completed lesson exists.
+
+Build 130
+
+- The LTM Stock Price Chart calculates 20-day, 50-day, and 200-day moving averages from the full loaded price history before clipping them to the visible chart range.
+- Dashboard and research cards use native macOS control backgrounds and separators in Light appearance, while Dark appearance keeps the existing material look.
+- The chart, financial table, estimates, Numbers bar charts, research cards, Help, and source panels share the same adaptive light-mode card treatment.
+
+Build 129
+
+- Settings uses Setup, API, Alerts, Interface, and Scope tabs instead of one long combined page.
+- Users can choose Dark or Light appearance, with Dark still selected by default for new installs.
+- The API tab includes an Open FMP Signup button for users who need a Financial Modeling Prep account and API key.
+- Recent Symbols, Watchlist, and Alerts in the left sidebar can each be collapsed independently.
+- Help covers Watchlist sorting, Watchlist import/export, Settings tabs, appearance selection, and the API key signup link.
+
+Build 128
+
+- Sparkle advertises releases using the corrected dotted visible version convention.
+- The About panel and Software Update presentation use the build number as the final dotted component.
+- Release artifacts use dotted version filenames instead of the older hyphenated build style.
+
+Build 127
+
+- Recent Symbols and Watchlist in the left sidebar can be collapsed independently.
+- Watchlist sidebar controls can import and export ticker symbols with one symbol per line.
+
+Build 126
+
+- Recent Symbols sidebar rows include a right-click Add to Watchlist action.
+- Watchlist sorting is available in the sidebar and workspace.
+- The LTM Stock Price Chart uses daily high-low price bars, close ticks, moving-average lines, and a compact volume strip.
